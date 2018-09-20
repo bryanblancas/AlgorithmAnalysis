@@ -1,0 +1,1 @@
+La subsecuencia es cualquier subconjunto de elementos que mantienen el orden, entonces el problema de encontrar la subsecuencia común mas larga se define como : Dadas 2 cadenas , sean X e Y, encontrar la longitud de la cadena mas larga Z, tal que los caracteres de Z aparezcan en en ese mismo orden dentro de las cadenas X e Y.
